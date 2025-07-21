@@ -1,0 +1,11 @@
+{
+  "name": "AURUM",
+  "symbol": "AUR",
+  "decimals": 18,
+  "description": "AURUM is a decentralized token with real Bitcoin-backed value and a transparent roadmap.",
+  "website": "https://aurum-coin-chain.github.io/",
+  "explorer": "https://etherscan.io/token/0x890E2f6c06c8e007e6f60D3eE0A9EdFB4134e30D",
+  "type": "ERC20",
+  "status": "active",
+  "id": "0x890E2f6c06c8e007e6f60D3eE0A9EdFB4134e30D"
+}

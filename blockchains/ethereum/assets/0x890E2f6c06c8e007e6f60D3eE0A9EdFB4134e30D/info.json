@@ -1,0 +1,20 @@
+{ "name": "AURUM",
+  "symbol": "AUR",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "AURUM is a Bitcoin-backed utility token built on Ethereum, designed to reflect Bitcoin scarcity and value anchoring.",
+  "website": "https://aurum-chain.io",
+  "explorer": "https://etherscan.io/token/0x890E2f6c06c8e007e6f60D3eE0A9EdFB4134e30D",
+  "status": "active",
+  "id": "aurum",
+  "links": [ 
+    { 
+      "name": "twitter",
+      "url": "https://twitter.com/aurumcoin"
+    },
+    { 
+      "name": "github",
+      "url": "https://github.com/Aurum-Coin-Chain"
+    }
+  ] 
+}
